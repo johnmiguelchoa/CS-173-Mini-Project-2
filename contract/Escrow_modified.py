@@ -25,7 +25,7 @@ class Escrow(sp.Contract):
             balanceOwner        = sp.tez(0),
             balanceCounterparty = sp.tez(0),
             hashedSecret        = hashedSecret,
-            epoch               = epoch,
+            epoch               = epoch, # Note that initialized UTC time must be in UTC+0 (GMT+0)
             owner               = owner,
             counterparty        = counterparty,
             admin               = admin,

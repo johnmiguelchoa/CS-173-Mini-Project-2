@@ -26,3 +26,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+## Deployed Escrow Contract
+
+Ghostnet contract address: KT19J4eadpqnhfkT1ZBMo24MwmQtBBn7RSpQ
+
+RPC URL: https://ghostnet.smartpy.io/
